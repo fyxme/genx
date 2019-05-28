@@ -1,4 +1,8 @@
 #!/bin/env python
+'''
+Extract keywords from a list of domains by splitting the domains on separator chars
+and removing numbering where necessary
+'''
 
 import sys
 import string
