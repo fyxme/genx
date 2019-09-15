@@ -1,6 +1,6 @@
 # Genx
 
-Genx is an alternative domain name generator to help in generating potential subdomains of a target. Usefull when starting recon on a domain.
+Genx is a fast alternative domain name generator to help in generating potential subdomains of a target. Useful when starting recon on a domain.
 
 ## Objectives of genx
 
