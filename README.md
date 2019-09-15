@@ -1,6 +1,6 @@
 ## Objectives of genx
 
-1. Create a tool similar to altdns which can generate large amounts of data very efficiently
+1. Create a tool which has all the capabilities of altdns and more, and which can generate large amounts of data very efficiently
 2. Be faster than it's python equivalent
 3. Allows for an array of cli commands
 4. Finally: simply practice Rust
@@ -13,7 +13,7 @@
 
 ```
 
-## Speed comparaison
+## WIP: Speed comparaison
 
 Comparaison with the current version of `genx` which reads input from a file, and outputs the combined keyword+domain to a file or stdout.
 
