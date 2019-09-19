@@ -12,8 +12,20 @@ Genx is a fast alternative domain name generator to help in generating potential
 ## Compilation
 
 To compile run:
+
+A Makefile has been created so you can simply run:
+```
+make
+```
+
+Otherwise, compile manually:
 ```
 rustc -O genx.rs
+```
+
+To cleanup:
+```
+make clean
 ```
 
 ## Usage
