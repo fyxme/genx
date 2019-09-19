@@ -1,2 +1,1 @@
-asdf.com
-bct.com
+example.com
