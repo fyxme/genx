@@ -4,10 +4,12 @@ Genx is a fast alternative domain name generator to help in generating potential
 
 ## Objectives of genx
 
-1. Create a tool which has all the capabilities of altdns and more, and which can generate large amounts of data very efficiently
-2. Be faster than it's python equivalent
-3. Allows for an array of cli commands
-4. Finally: simply practice Rust
+1. Be a general purpose subdomain generation tool
+2. Can generate large amounts of data very efficiently
+3. Be as fast as possible
+4. Allow for an array of cli commands
+5. Have all the capabilities of altdns (great tool) and more
+6. Finally: simply practice Rust
 
 ## Compilation
 
@@ -35,7 +37,9 @@ make clean
 
 ```
 
-## WIP: Speed comparaison
+## Speed comparaison
+
+This part contains speed comparaisons between `genx` and it's `python` and `c` equivalents.
 
 ### Simple keyword to domain concatenation
 
